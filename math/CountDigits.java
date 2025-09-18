@@ -1,4 +1,4 @@
-package basicMath;
+package math;
 
 public class CountDigits {
 
